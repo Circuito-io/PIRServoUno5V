@@ -11,7 +11,7 @@ You can also like circuito.io on Facebook at: https://www.facebook.com/circuito.
 
 How to read this repository
 ---------------------------
-You are here because you ised circuito.io and asked for a circuit and code sample for your project.
+You are here because you used circuito.io and asked for a circuit and code sample for your project.
 This is your project folder, you'll find here:
 * bom.txt - all the parts used in designing the circuit - your chosen parts & any additionals that may be required for the circuit to work.
 * firmware folder - includes all code need to operate the i/o devices using the micro-controller. firmware.ino is the main logic file.
@@ -19,9 +19,15 @@ This is your project folder, you'll find here:
 
 License
 -------
+The firmware is distributed under:
 [GNU General Public License v3 (GPL-3)] (http://www.gnu.org/licenses/gpl-3.0.en.html)
 
-You may copy, distribute and modify the software as long as you track changes/dates in source files. Any modifications to or software including (via compiler) GPL-licensed code must also be made available under the GPL along with build & install instructions.
+You may copy, distribute and modify the software as long as you track changes/dates in source files. 
+Any modifications to or software including (via compiler) GPL-licensed code must also be made available under the GPL 
+along with build & install instructions.
+
+The schematics, breadboard view and .fzz files for editing are done using Fritzing.org and are distributed under the 
+[Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)] (http://creativecommons.org/licenses/by-sa/3.0/)
 
 Disclaimer
 ----------
