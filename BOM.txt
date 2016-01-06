@@ -1,0 +1,13 @@
+PIR, Servo, Arduino Uno, 5V power supply BOM:
+
+Power source:
+    1.5V Power converter:
+        -link: https://www.sparkfun.com/products/12889  
+MicroController:
+    1.Arduino uno: 
+        -link: https://www.sparkfun.com/products/11021
+Components:
+    1.Servo:
+        -link: https://www.sparkfun.com/products/10333
+    2.PIR Motion Sensor (JST):
+        -link: https://www.sparkfun.com/products/13285
